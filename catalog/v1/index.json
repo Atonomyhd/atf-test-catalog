@@ -1,5 +1,16 @@
 {
   "format": "atf-test-catalog",
   "schemaVersion": 1,
-  "entries": []
+  "entries": [
+    {
+      "publisher": "atonomyhd",
+      "project": "admin-tools",
+      "channel": "testing",
+      "name": "ATF Test Connect prototype 0.1.0",
+      "summary": "Prototype: matching Storm, UAC, Mini UI Core, Combat Health, Zone Framework, Zone Marker and ATF Test Connect.",
+      "gameVersion": "42.21.0",
+      "revision": "3b951e05152f9c0ea5180f976d24a4f1506556fa54e3875f050c87ed1424fce1",
+      "manifestUrl": "https://github.com/Atonomyhd/atf-test-catalog/releases/download/atf-test%2Fatonomyhd%2Fadmin-tools%2Ftesting%2F3b951e05152f9c0ea5180f976d24a4f1506556fa54e3875f050c87ed1424fce1/manifest.json"
+    }
+  ]
 }
